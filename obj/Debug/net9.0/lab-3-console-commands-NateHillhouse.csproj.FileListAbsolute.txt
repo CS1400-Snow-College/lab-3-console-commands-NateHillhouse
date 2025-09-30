@@ -1,0 +1,15 @@
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-3-console-commands-NateHillhouse\obj\Debug\net9.0\lab-3-console-commands-NateHillhouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-3-console-commands-NateHillhouse\obj\Debug\net9.0\lab-3-console-commands-NateHillhouse.AssemblyInfoInputs.cache
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-3-console-commands-NateHillhouse\obj\Debug\net9.0\lab-3-console-commands-NateHillhouse.AssemblyInfo.cs
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-3-console-commands-NateHillhouse\obj\Debug\net9.0\lab-3-console-commands-NateHillhouse.csproj.CoreCompileInputs.cache
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-3-console-commands-NateHillhouse\obj\Debug\net9.0\lab-3-console-commands-NateHillhouse.sourcelink.json
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-3-console-commands-NateHillhouse\bin\Debug\net9.0\lab-3-console-commands-NateHillhouse.exe
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-3-console-commands-NateHillhouse\bin\Debug\net9.0\lab-3-console-commands-NateHillhouse.deps.json
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-3-console-commands-NateHillhouse\bin\Debug\net9.0\lab-3-console-commands-NateHillhouse.runtimeconfig.json
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-3-console-commands-NateHillhouse\bin\Debug\net9.0\lab-3-console-commands-NateHillhouse.dll
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-3-console-commands-NateHillhouse\bin\Debug\net9.0\lab-3-console-commands-NateHillhouse.pdb
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-3-console-commands-NateHillhouse\obj\Debug\net9.0\lab-3-console-commands-NateHillhouse.dll
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-3-console-commands-NateHillhouse\obj\Debug\net9.0\refint\lab-3-console-commands-NateHillhouse.dll
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-3-console-commands-NateHillhouse\obj\Debug\net9.0\lab-3-console-commands-NateHillhouse.pdb
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-3-console-commands-NateHillhouse\obj\Debug\net9.0\lab-3-console-commands-NateHillhouse.genruntimeconfig.cache
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-3-console-commands-NateHillhouse\obj\Debug\net9.0\ref\lab-3-console-commands-NateHillhouse.dll
