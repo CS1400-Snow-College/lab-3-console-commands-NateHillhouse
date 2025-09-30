@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿/*
+Nathan Hillhouse
+9/29/2025
+Lab 5 - Mastermind
+*/
+
+
