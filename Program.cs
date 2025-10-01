@@ -13,16 +13,37 @@ string? guess = "", word = "";
 char[] wordlist = new char[4];
 Random rand = new Random();
 
+//Function to check if there are duplicates
+static bool checkletters(int i, char letter, string word, Random rand)
+{
+    for (int x = word.Length - 1; x >= 0; x--)
+    {
+        if (letter == word[x])
+        {
+            return false;
+        }
+    }
+    return true;
+
+}
+
 //get random word
 for (int i = 3; i >= 0; i--)
 {
     char letter = (char)rand.Next(97, 103); //Need to edit to have no repeats
+    if (word.Length > 0)
+    {
+        bool success = checkletters(i, letter, word, rand);
+        while (success == false)
+        {
+            letter = (char)rand.Next(97, 103);
+            success = checkletters(i, letter, word, rand);
+        }
+    }
     wordlist[i] = letter;
     word += letter;
 
 }
-Console.WriteLine(word);
-
 
 
 //Get guesses
